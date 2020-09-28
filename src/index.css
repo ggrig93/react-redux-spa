@@ -1,0 +1,26 @@
+.navbar-collapse {
+    margin-left: 60px;
+}
+
+
+.navbar-nav {
+    width: 100%;
+    align-items: center;
+}
+
+.app{
+    background-image: url("https://cdn.hipwallpaper.com/i/99/73/PKpFxN.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+h2{
+    background: #f0f8ffab;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0 38px 40px -16px grey;
+}
+
+table{
+    background: #f0f8ffc7;
+}
